@@ -1,3 +1,3 @@
-# Kavya KUNDI
+# Psychic-palm-tree
 This is an example project.
 Made a change.
