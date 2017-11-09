@@ -1,7 +1,5 @@
 def main(msg):
     # Adding a different comment
+    # print a message
     print (msg)
-
-# print a message
-
 main ("Hello again pycharm")
